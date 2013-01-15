@@ -5,4 +5,4 @@ README.txt
 Rakefile
 bin/yell/splunk
 lib/yell/splunk.rb
-test/test_yell/splunk.rb
+spec/yell/splunk.rb
