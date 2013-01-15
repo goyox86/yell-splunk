@@ -1,26 +1,22 @@
 = yell-splunk
 
-* FIX (url)
+https://github.com/goyox86/yell-splunk
 
 == DESCRIPTION:
 
-FIX (describe your package)
+Yell adapter for Splunk following closely the practices described in http://dev.splunk.com/view/logging/SP-CAAADP6.
 
 == FEATURES/PROBLEMS:
 
-* FIX (list of features or problems)
-
-== SYNOPSIS:
-
-  FIX (code sample of usage)
+* Not implemented yet
 
 == REQUIREMENTS:
 
-* FIX (list of requirements)
+yell
 
 == INSTALL:
 
-* FIX (sudo gem install, anything else)
+sudo gem install yell-splunk
 
 == DEVELOPERS:
 
@@ -35,7 +31,7 @@ and generate the RDoc.
 
 (The MIT License)
 
-Copyright (c) 2013 FIX
+Copyright (c) 2013
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
