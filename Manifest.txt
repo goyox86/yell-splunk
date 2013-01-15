@@ -1,8 +1,13 @@
 .autotest
+.rspec
+Gemfile
+Gemfile.lock
 History.txt
 Manifest.txt
 README.txt
 Rakefile
-bin/yell/splunk
-lib/yell/splunk.rb
-spec/yell/splunk.rb
+lib/yell/adapters/splunk.rb
+lib/yell/adapters.rb
+lib/yell.rb
+spec/spec_helper.rb
+spec/yell/adapter/splunk_spec.rb
